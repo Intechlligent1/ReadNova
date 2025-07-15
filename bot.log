@@ -1,0 +1,37 @@
+2025-07-15 18:29:27,247 - __main__ - INFO - 🚀 Starting ReadNova Bot... (Attempt 1/5)
+2025-07-15 18:29:32,360 - __main__ - ERROR - Connection error on attempt 1: Timed out
+2025-07-15 18:29:32,360 - __main__ - INFO - Retrying in 5 seconds...
+2025-07-15 18:29:37,366 - __main__ - INFO - 🚀 Starting ReadNova Bot... (Attempt 2/5)
+2025-07-15 18:29:37,935 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7601593573:AAE1iEipq8tdGcfjDTLjI9cYmY65f8_lgiM/getMe "HTTP/1.1 200 OK"
+2025-07-15 18:29:37,936 - apscheduler.scheduler - INFO - Scheduler started
+2025-07-15 18:29:37,937 - telegram.ext.Application - INFO - Application started
+2025-07-15 18:29:37,937 - __main__ - INFO - ✅ Bot started successfully!
+2025-07-15 18:29:38,062 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7601593573:AAE1iEipq8tdGcfjDTLjI9cYmY65f8_lgiM/deleteWebhook "HTTP/1.1 200 OK"
+2025-07-15 18:29:48,330 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7601593573:AAE1iEipq8tdGcfjDTLjI9cYmY65f8_lgiM/getUpdates "HTTP/1.1 200 OK"
+2025-07-15 18:29:48,944 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7601593573:AAE1iEipq8tdGcfjDTLjI9cYmY65f8_lgiM/sendMessage "HTTP/1.1 200 OK"
+2025-07-15 18:30:16,798 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7601593573:AAE1iEipq8tdGcfjDTLjI9cYmY65f8_lgiM/getUpdates "HTTP/1.1 200 OK"
+2025-07-15 18:30:16,800 - __main__ - INFO - PDF received. Processing...
+2025-07-15 18:30:17,250 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7601593573:AAE1iEipq8tdGcfjDTLjI9cYmY65f8_lgiM/sendMessage "HTTP/1.1 200 OK"
+2025-07-15 18:30:18,010 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7601593573:AAE1iEipq8tdGcfjDTLjI9cYmY65f8_lgiM/getFile "HTTP/1.1 200 OK"
+2025-07-15 18:30:18,254 - httpx - INFO - HTTP Request: GET https://api.telegram.org/file/bot7601593573%3AAAE1iEipq8tdGcfjDTLjI9cYmY65f8_lgiM/documents/file_0.pdf "HTTP/1.1 200 OK"
+2025-07-15 18:30:19,997 - __main__ - INFO - Extracted 494611 characters from PDF.
+2025-07-15 18:30:20,202 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7601593573:AAE1iEipq8tdGcfjDTLjI9cYmY65f8_lgiM/sendMessage "HTTP/1.1 200 OK"
+2025-07-15 18:30:46,926 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7601593573:AAE1iEipq8tdGcfjDTLjI9cYmY65f8_lgiM/getUpdates "HTTP/1.1 200 OK"
+2025-07-15 18:31:03,621 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7601593573:AAE1iEipq8tdGcfjDTLjI9cYmY65f8_lgiM/getUpdates "HTTP/1.1 200 OK"
+2025-07-15 18:31:12,011 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7601593573:AAE1iEipq8tdGcfjDTLjI9cYmY65f8_lgiM/getUpdates "HTTP/1.1 200 OK"
+2025-07-15 18:31:17,019 - __main__ - ERROR - Error sending message: Timed out
+2025-07-15 18:31:42,197 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7601593573:AAE1iEipq8tdGcfjDTLjI9cYmY65f8_lgiM/getUpdates "HTTP/1.1 200 OK"
+2025-07-15 18:32:12,405 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7601593573:AAE1iEipq8tdGcfjDTLjI9cYmY65f8_lgiM/getUpdates "HTTP/1.1 200 OK"
+2025-07-15 18:32:42,613 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7601593573:AAE1iEipq8tdGcfjDTLjI9cYmY65f8_lgiM/getUpdates "HTTP/1.1 200 OK"
+2025-07-15 18:33:12,821 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7601593573:AAE1iEipq8tdGcfjDTLjI9cYmY65f8_lgiM/getUpdates "HTTP/1.1 200 OK"
+2025-07-15 18:33:42,953 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7601593573:AAE1iEipq8tdGcfjDTLjI9cYmY65f8_lgiM/getUpdates "HTTP/1.1 200 OK"
+2025-07-15 18:34:13,134 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7601593573:AAE1iEipq8tdGcfjDTLjI9cYmY65f8_lgiM/getUpdates "HTTP/1.1 200 OK"
+2025-07-15 18:34:43,259 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7601593573:AAE1iEipq8tdGcfjDTLjI9cYmY65f8_lgiM/getUpdates "HTTP/1.1 200 OK"
+2025-07-15 18:35:13,396 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7601593573:AAE1iEipq8tdGcfjDTLjI9cYmY65f8_lgiM/getUpdates "HTTP/1.1 200 OK"
+2025-07-15 18:35:43,553 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7601593573:AAE1iEipq8tdGcfjDTLjI9cYmY65f8_lgiM/getUpdates "HTTP/1.1 200 OK"
+2025-07-15 18:35:49,090 - __main__ - INFO - Received signal 2, shutting down gracefully...
+2025-07-15 18:35:51,235 - __main__ - INFO - Received signal 2, shutting down gracefully...
+2025-07-15 18:35:51,936 - __main__ - INFO - Received signal 2, shutting down gracefully...
+2025-07-15 18:35:52,462 - __main__ - INFO - Received signal 2, shutting down gracefully...
+2025-07-15 18:35:52,771 - __main__ - INFO - Received signal 2, shutting down gracefully...
+2025-07-15 18:35:52,966 - __main__ - INFO - Received signal 2, shutting down gracefully...
